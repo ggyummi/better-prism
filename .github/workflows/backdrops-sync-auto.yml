@@ -1,6 +1,7 @@
 name: Backdrops Sync Auto
 
 on:
+  workflow_dispatch: 
   push:
     branches:
       - "**"
