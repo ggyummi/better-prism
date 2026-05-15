@@ -216,6 +216,10 @@ FOLDER_REQUEST_OVERRIDES = {
         "movie:sort_by=popularity.desc&include_adult=false&with_genres=16&with_original_language=ja&vote_count.gte=20&with_release_type=4|5|6",
         "tv:sort_by=popularity.desc&include_adult=false&with_genres=16&with_original_language=ja&vote_count.gte=10&with_status=0|3|4|5",
     ],
+        "collections.simkl.watchlist": [
+        "movie:/movie/popular?language=en-US",
+        "tv:/tv/popular?language=en-US",
+    ],
 }
 
 def load_json(path):
