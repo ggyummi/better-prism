@@ -54,6 +54,15 @@ jobs:
 
       - name: Commit and push if changed
         run: |
+          echo "=== debug: generated files ==="
+          find collections/simkl -maxdepth 3 -type f || true
+          
+          echo "=== debug: git status ==="
+          git status --short
+          
+          echo "=== debug: git diff names ==="
+          git diff --name-only -- collections
+        
           if git diff --quiet -- collections; then
             echo "No backdrop changes to commit"
             exit 0
