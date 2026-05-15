@@ -3,21 +3,19 @@
   "catalogs": [
     {
       "id": "trakt.recommendations.movies",
-      "name": "🎯 Recommendations",
+      "name": "🎯 Trakt Recommendations",
       "type": "movie",
       "source": "trakt",
       "enabled": true,
-      "showInHome": true,
-      "displayType": "movie"
+      "showInHome": true
     },
     {
       "id": "trakt.recommendations.shows",
-      "name": "🎯 Recommendations",
+      "name": "🎯 Trakt Recommendations",
       "type": "series",
       "source": "trakt",
       "enabled": true,
-      "showInHome": true,
-      "displayType": "series"
+      "showInHome": true
     },
     {
       "id": "tmdb.top",
@@ -6081,42 +6079,6 @@
           }
         }
       }
-    },
-    {
-      "id": "simkl.watchlist.movies.plantowatch",
-      "type": "movie",
-      "name": "Plan to Watch",
-      "enabled": true,
-      "showInHome": true,
-      "source": "simkl",
-      "metadata": {
-        "status": "plantowatch"
-      },
-      "displayType": "movie"
-    },
-    {
-      "id": "simkl.watchlist.shows.plantowatch",
-      "type": "series",
-      "name": "Plan to Watch",
-      "enabled": true,
-      "showInHome": true,
-      "source": "simkl",
-      "metadata": {
-        "status": "plantowatch"
-      },
-      "displayType": "series"
-    },
-    {
-      "id": "simkl.watchlist.anime.plantowatch",
-      "type": "anime",
-      "name": "Plan to Watch",
-      "enabled": true,
-      "showInHome": true,
-      "source": "simkl",
-      "metadata": {
-        "status": "plantowatch"
-      },
-      "displayType": "anime"
     }
   ]
 }

@@ -1,9 +1,13 @@
 {
-  "version": "2.3.0",
-  "exportedAt": "2026-05-15T21:27:08.267Z",
+  "version": "1.35.2",
+  "metadata": {
+    "apiKeysExcluded": true,
+    "totalCatalogs": 160,
+    "enabledCatalogs": 149
+  },
   "config": {
     "language": "en-US",
-    "includeAdult": true,
+    "includeAdult": false,
     "searchEnabled": true,
     "tvdbSeasonType": "default",
     "usePosterProxy": true,
@@ -21,7 +25,7 @@
     "simklWatchTracking": true,
     "traktWatchTracking": false,
     "hideWatchedTrakt": true,
-    "hideWatchedMdblist": false,
+    "hideWatchedMdblist": true,
     "ageRating": "None",
     "castCount": 10,
     "providers": {
@@ -57,9 +61,9 @@
       "allowEpisodeMarking": true,
       "useImdbIdForCatalogAndSearch": true
     },
-    "sfw": false,
+    "sfw": true,
     "tmdb": {
-      "scrapeImdb": false,
+      "scrapeImdb": true,
       "forceLatinCastNames": false
     },
     "search": {
@@ -84,11 +88,11 @@
         "mal.search.movie": false,
         "mal.search.series": false,
         "tmdb.people.search": false,
-        "people_search_movie": true,
-        "people_search_series": true,
-        "tvdb.collections.search": true,
-        "kitsu.search.series": true,
-        "kitsu.search.movie": true
+        "people_search_movie": false,
+        "people_search_series": false,
+        "tvdb.collections.search": false,
+        "kitsu.search.series": false,
+        "kitsu.search.movie": false
       },
       "engineRatingPosters": {
         "movie": true,
@@ -103,10 +107,9 @@
       "tmdb": "",
       "tvdb": "",
       "fanart": "",
-      "rpdb": "",
+      "rpdb": "t0-free-rpdb",
       "topPoster": "",
       "mdblist": "",
-      "openrouter": "",
       "traktTokenId": "",
       "simklTokenId": "",
       "anilistTokenId": "",
@@ -115,21 +118,19 @@
     "catalogs": [
       {
         "id": "trakt.recommendations.movies",
-        "name": "🎯 Recommendations",
+        "name": "🎯 Trakt Recommendations",
         "type": "movie",
         "source": "trakt",
         "enabled": true,
-        "showInHome": true,
-        "displayType": "movie"
+        "showInHome": true
       },
       {
         "id": "trakt.recommendations.shows",
-        "name": "🎯 Recommendations",
+        "name": "🎯 Trakt Recommendations",
         "type": "series",
         "source": "trakt",
         "enabled": true,
-        "showInHome": true,
-        "displayType": "series"
+        "showInHome": true
       },
       {
         "id": "tmdb.top",
@@ -6193,53 +6194,7 @@
             }
           }
         }
-      },
-      {
-        "id": "simkl.watchlist.movies.plantowatch",
-        "type": "movie",
-        "name": "Plan to Watch",
-        "enabled": true,
-        "showInHome": true,
-        "source": "simkl",
-        "metadata": {
-          "status": "plantowatch"
-        },
-        "displayType": "movie"
-      },
-      {
-        "id": "simkl.watchlist.shows.plantowatch",
-        "type": "series",
-        "name": "Plan to Watch",
-        "enabled": true,
-        "showInHome": true,
-        "source": "simkl",
-        "metadata": {
-          "status": "plantowatch"
-        },
-        "displayType": "series"
-      },
-      {
-        "id": "simkl.watchlist.anime.plantowatch",
-        "type": "anime",
-        "name": "Plan to Watch",
-        "enabled": true,
-        "showInHome": true,
-        "source": "simkl",
-        "metadata": {
-          "status": "plantowatch"
-        },
-        "displayType": "anime"
       }
-    ],
-    "publicmetadbWatchTracking": true,
-    "hideUnreleasedShows": true,
-    "lastModified": 1778809949142,
-    "configVersion": 1778809949143,
-    "configHash": "ff23fff8a4381d90"
-  },
-  "metadata": {
-    "apiKeysExcluded": true,
-    "totalCatalogs": 163,
-    "enabledCatalogs": 152
+    ]
   }
 }
