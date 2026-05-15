@@ -1788,9 +1788,8 @@
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/backdrop/epic.webp"
       }
     ]
-  }
-]
-{
+  },
+  {
     "id": "collections.watchlist",
     "title": "Watchlist",
     "folders": [
@@ -1858,4 +1857,6 @@
     "focusGlowEnabled": true
   }
 ]
+]
+
 
