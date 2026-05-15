@@ -56,20 +56,24 @@ jobs:
         run: |
           echo "=== debug: generated files ==="
           find collections/simkl -maxdepth 3 -type f || true
-          
-          echo "=== debug: git status ==="
+
+          echo "=== debug: git status (before add) ==="
           git status --short
-          
-          echo "=== debug: git diff names ==="
-          git diff --name-only -- collections
-        
-          if git diff --quiet -- collections; then
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage all collection changes, including untracked files.
+          git add -A collections
+
+          echo "=== debug: git status (after add) ==="
+          git status --short
+
+          # If nothing is staged, exit cleanly.
+          if git diff --cached --quiet; then
             echo "No backdrop changes to commit"
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add collections
           git commit -m "chore: generate missing backdrops"
           git push
