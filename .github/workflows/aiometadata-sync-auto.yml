@@ -1,6 +1,7 @@
 name: AIOMetadata Sync Auto
 
 on:
+  workflow_dispatch: 
   push:
     branches:
       - "**"
