@@ -25,9 +25,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎯",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/focused/recommended.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/title/recommended.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/cover/recommended.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/focused/recommended.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/title/recommended.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/cover/recommended.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -41,7 +41,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/backdrop/recommended.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/backdrop/recommended.webp"
       },
       {
         "id": "collections.discover.popular",
@@ -65,9 +65,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🏆",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/focused/popular.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/title/popular.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/cover/popular.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/focused/popular.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/title/popular.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/cover/popular.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -81,7 +81,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/backdrop/popular.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/backdrop/popular.webp"
       },
       {
         "id": "collections.discover.trending",
@@ -105,9 +105,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🔥",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/focused/trending.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/title/trending.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/cover/trending.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/focused/trending.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/title/trending.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/cover/trending.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -121,7 +121,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/backdrop/trending.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/backdrop/trending.webp"
       },
       {
         "id": "collections.discover.top-rated",
@@ -145,9 +145,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "⭐",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/focused/top-rated.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/title/top-rated.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/cover/top-rated.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/focused/top-rated.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/title/top-rated.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/cover/top-rated.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -161,7 +161,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/discover/backdrop/top-rated.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/discover/backdrop/top-rated.webp"
       }
     ],
     "pinToTop": true,
@@ -195,9 +195,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/netflix.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/netflix.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/netflix.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/netflix.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/netflix.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/netflix.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -211,7 +211,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/netflix.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/netflix.webp"
       },
       {
         "id": "collections.streaming.disney-plus",
@@ -235,9 +235,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/disney-plus.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/disney-plus.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/disney-plus.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/disney-plus.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/disney-plus.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/disney-plus.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -251,7 +251,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/disney-plus.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/disney-plus.webp"
       },
       {
         "id": "collections.streaming.prime-video",
@@ -275,9 +275,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/prime-video.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/prime-video.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/prime-video.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/prime-video.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/prime-video.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/prime-video.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -291,7 +291,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/prime-video.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/prime-video.webp"
       },
       {
         "id": "collections.streaming.apple-tv",
@@ -315,9 +315,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/apple-tv.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/apple-tv.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/apple-tv.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/apple-tv.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/apple-tv.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/apple-tv.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -331,7 +331,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/apple-tv.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/apple-tv.webp"
       },
       {
         "id": "collections.streaming.hbo-max",
@@ -355,9 +355,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/hbo-max.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/hbo-max.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/hbo-max.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/hbo-max.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/hbo-max.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/hbo-max.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -371,7 +371,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/hbo-max.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/hbo-max.webp"
       },
       {
         "id": "collections.streaming.hulu",
@@ -395,9 +395,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/hulu.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/hulu.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/hulu.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/hulu.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/hulu.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/hulu.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -411,7 +411,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/hulu.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/hulu.webp"
       },
       {
         "id": "collections.streaming.paramount-plus",
@@ -435,9 +435,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/paramount-plus.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/paramount-plus.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/paramount-plus.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/paramount-plus.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/paramount-plus.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/paramount-plus.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -451,7 +451,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/paramount-plus.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/paramount-plus.webp"
       },
       {
         "id": "collections.streaming.peacock",
@@ -475,9 +475,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/peacock.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/peacock.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/peacock.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/peacock.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/peacock.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/peacock.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -491,7 +491,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/peacock.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/peacock.webp"
       },
       {
         "id": "collections.streaming.crunchyroll",
@@ -515,9 +515,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/crunchyroll.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/crunchyroll.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/crunchyroll.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/crunchyroll.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/crunchyroll.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/crunchyroll.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -531,7 +531,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/crunchyroll.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/crunchyroll.webp"
       },
       {
         "id": "collections.streaming.discovery-plus",
@@ -555,9 +555,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/discovery-plus.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/discovery-plus.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/discovery-plus.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/discovery-plus.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/discovery-plus.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/discovery-plus.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -571,7 +571,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/discovery-plus.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/discovery-plus.webp"
       },
       {
         "id": "collections.streaming.curiosity-stream",
@@ -595,9 +595,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/curiosity-stream.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/curiosity-stream.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/curiosity-stream.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/curiosity-stream.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/curiosity-stream.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/curiosity-stream.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -611,7 +611,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/curiosity-stream.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/curiosity-stream.webp"
       },
       {
         "id": "collections.streaming.jiohotstar",
@@ -635,9 +635,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/jiohotstar.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/jiohotstar.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/jiohotstar.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/jiohotstar.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/jiohotstar.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/jiohotstar.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -651,7 +651,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/jiohotstar.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/jiohotstar.webp"
       },
       {
         "id": "collections.streaming.starz",
@@ -675,9 +675,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/starz.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/starz.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/starz.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/starz.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/starz.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/starz.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -691,7 +691,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/starz.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/starz.webp"
       },
       {
         "id": "collections.streaming.shudder",
@@ -715,9 +715,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/shudder.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/shudder.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/shudder.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/focused/shudder.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/title/shudder.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/cover/shudder.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -731,7 +731,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/shudder.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/streaming/backdrop/shudder.webp"
       }
     ],
     "pinToTop": true,
@@ -772,9 +772,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/action.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/action.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/action.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/action.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/action.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/action.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -793,7 +793,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/action.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/action.webp"
       },
       {
         "id": "collections.genres.animation",
@@ -817,9 +817,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/animation.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/animation.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/animation.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/animation.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/animation.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/animation.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -833,7 +833,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/animation.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/animation.webp"
       },
       {
         "id": "collections.genres.anime",
@@ -955,9 +955,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/anime.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/anime.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/anime.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/anime.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/anime.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/anime.webp",
         "catalogSources": [
           {
             "type": "anime",
@@ -1041,7 +1041,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/anime.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/anime.webp"
       },
       {
         "id": "collections.genres.comedy",
@@ -1065,9 +1065,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/comedy.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/comedy.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/comedy.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/comedy.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/comedy.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/comedy.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1081,7 +1081,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/comedy.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/comedy.webp"
       },
       {
         "id": "collections.genres.crime",
@@ -1105,9 +1105,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/crime.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/crime.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/crime.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/crime.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/crime.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/crime.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1121,7 +1121,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/crime.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/crime.webp"
       },
       {
         "id": "collections.genres.documentary",
@@ -1145,9 +1145,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/documentary.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/documentary.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/documentary.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/documentary.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/documentary.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/documentary.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1161,7 +1161,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/documentary.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/documentary.webp"
       },
       {
         "id": "collections.genres.drama",
@@ -1185,9 +1185,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/drama.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/drama.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/drama.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/drama.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/drama.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/drama.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1201,7 +1201,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/drama.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/drama.webp"
       },
       {
         "id": "collections.genres.family",
@@ -1225,9 +1225,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/family.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/family.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/family.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/family.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/family.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/family.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1241,7 +1241,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/family.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/family.webp"
       },
       {
         "id": "collections.genres.fantasy",
@@ -1272,9 +1272,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/fantasy.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/fantasy.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/fantasy.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/fantasy.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/fantasy.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/fantasy.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1293,7 +1293,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/fantasy.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/fantasy.webp"
       },
       {
         "id": "collections.genres.history",
@@ -1324,9 +1324,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/history.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/history.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/history.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/history.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/history.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/history.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1345,7 +1345,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/history.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/history.webp"
       },
       {
         "id": "collections.genres.horror",
@@ -1362,9 +1362,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/horror.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/horror.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/horror.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/horror.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/horror.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/horror.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1373,7 +1373,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/horror.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/horror.webp"
       },
       {
         "id": "collections.genres.music",
@@ -1390,9 +1390,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/music.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/music.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/music.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/music.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/music.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/music.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1401,7 +1401,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/music.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/music.webp"
       },
       {
         "id": "collections.genres.mystery",
@@ -1425,9 +1425,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/mystery.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/mystery.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/mystery.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/mystery.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/mystery.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/mystery.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1441,7 +1441,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/mystery.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/mystery.webp"
       },
       {
         "id": "collections.genres.talk",
@@ -1465,9 +1465,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/talk.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/talk.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/talk.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/talk.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/talk.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/talk.webp",
         "catalogSources": [
           {
             "type": "series",
@@ -1481,7 +1481,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/talk.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/talk.webp"
       },
       {
         "id": "collections.genres.reality",
@@ -1505,9 +1505,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/reality.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/reality.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/reality.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/reality.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/reality.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/reality.webp",
         "catalogSources": [
           {
             "type": "series",
@@ -1521,7 +1521,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/reality.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/reality.webp"
       },
       {
         "id": "collections.genres.romance",
@@ -1538,9 +1538,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/romance.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/romance.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/romance.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/romance.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/romance.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/romance.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1549,7 +1549,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/romance.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/romance.webp"
       },
       {
         "id": "collections.genres.thriller",
@@ -1566,9 +1566,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/thriller.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/thriller.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/thriller.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/thriller.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/thriller.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/thriller.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1577,7 +1577,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/thriller.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/thriller.webp"
       },
       {
         "id": "collections.genres.tv",
@@ -1594,9 +1594,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/tv.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/tv.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/tv.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/tv.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/tv.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/tv.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1605,7 +1605,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/tv.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/tv.webp"
       },
       {
         "id": "collections.genres.western",
@@ -1629,9 +1629,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎭",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/focused/western.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/title/western.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/cover/western.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/focused/western.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/title/western.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/cover/western.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1645,7 +1645,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/genres/backdrop/western.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/genres/backdrop/western.webp"
       }
     ],
     "pinToTop": true,
@@ -1679,9 +1679,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎨",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/focused/time-travel.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/time-travel.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/cover/time-travel.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/focused/time-travel.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/title/time-travel.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/cover/time-travel.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1695,7 +1695,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/backdrop/time-travel.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/backdrop/time-travel.webp"
       },
       {
         "id": "collections.themes.revenge",
@@ -1719,9 +1719,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎨",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/focused/revenge.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/revenge.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/cover/revenge.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/focused/revenge.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/title/revenge.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/cover/revenge.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1735,7 +1735,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/backdrop/revenge.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/backdrop/revenge.webp"
       },
       {
         "id": "collections.themes.spy",
@@ -1759,9 +1759,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎨",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/focused/spy.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/spy.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/cover/spy.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/focused/spy.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/title/spy.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/cover/spy.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1775,7 +1775,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/backdrop/spy.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/backdrop/spy.webp"
       },
       {
         "id": "collections.themes.magic",
@@ -1799,9 +1799,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎨",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/focused/magic.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/magic.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/cover/magic.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/focused/magic.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/title/magic.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/cover/magic.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1815,7 +1815,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/backdrop/magic.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/backdrop/magic.webp"
       },
       {
         "id": "collections.themes.k-drama",
@@ -1839,9 +1839,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎨",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/focused/k-drama.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/k-drama.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/cover/k-drama.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/focused/k-drama.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/title/k-drama.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/cover/k-drama.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1855,7 +1855,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/backdrop/k-drama.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/backdrop/k-drama.webp"
       },
       {
         "id": "collections.themes.treasure-hunt",
@@ -1879,9 +1879,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎨",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/focused/treasure-hunt.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/treasure-hunt.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/cover/treasure-hunt.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/focused/treasure-hunt.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/title/treasure-hunt.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/cover/treasure-hunt.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1895,7 +1895,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/backdrop/treasure-hunt.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/backdrop/treasure-hunt.webp"
       },
       {
         "id": "collections.themes.romantic-comedy",
@@ -1919,9 +1919,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎨",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/focused/romantic-comedy.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/romantic-comedy.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/cover/romantic-comedy.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/focused/romantic-comedy.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/title/romantic-comedy.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/cover/romantic-comedy.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1935,7 +1935,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/backdrop/romantic-comedy.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/backdrop/romantic-comedy.webp"
       },
       {
         "id": "collections.themes.coming-of-age",
@@ -1959,9 +1959,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎨",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/focused/coming-of-age.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/coming-of-age.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/cover/coming-of-age.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/focused/coming-of-age.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/title/coming-of-age.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/cover/coming-of-age.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -1975,7 +1975,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/backdrop/coming-of-age.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/backdrop/coming-of-age.webp"
       },
       {
         "id": "collections.themes.superhero",
@@ -1999,9 +1999,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎨",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/focused/superhero.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/superhero.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/cover/superhero.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/focused/superhero.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/title/superhero.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/cover/superhero.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2015,7 +2015,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/backdrop/superhero.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/backdrop/superhero.webp"
       },
       {
         "id": "collections.themes.space",
@@ -2039,9 +2039,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎨",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/focused/space.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/space.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/cover/space.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/focused/space.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/title/space.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/cover/space.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2055,7 +2055,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/backdrop/space.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/backdrop/space.webp"
       },
       {
         "id": "collections.themes.martial-arts",
@@ -2079,9 +2079,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎨",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/focused/martial-arts.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/martial-arts.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/cover/martial-arts.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/focused/martial-arts.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/title/martial-arts.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/cover/martial-arts.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2095,7 +2095,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/backdrop/martial-arts.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/backdrop/martial-arts.webp"
       },
       {
         "id": "collections.themes.vampire",
@@ -2119,9 +2119,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎨",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/focused/vampire.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/vampire.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/cover/vampire.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/focused/vampire.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/title/vampire.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/cover/vampire.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2135,7 +2135,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/backdrop/vampire.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/backdrop/vampire.webp"
       },
       {
         "id": "collections.themes.satire",
@@ -2159,9 +2159,9 @@
         "hideTitle": false,
         "tileShape": "POSTER",
         "coverEmoji": "🎨",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/focused/satire.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/satire.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/cover/satire.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/focused/satire.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/title/satire.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/cover/satire.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2175,7 +2175,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/backdrop/satire.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/themes/backdrop/satire.webp"
       }
     ],
     "pinToTop": true,
@@ -2209,9 +2209,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🏰",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/focused/cartoon-network.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/title/cartoon-network.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/cover/cartoon-network.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/focused/cartoon-network.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/title/cartoon-network.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/cover/cartoon-network.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2225,7 +2225,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/cartoon-network.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/backdrop/cartoon-network.webp"
       },
       {
         "id": "collections.studios.dc",
@@ -2249,9 +2249,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🏰",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/focused/dc.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/title/dc.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/cover/dc.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/focused/dc.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/title/dc.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/cover/dc.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2265,7 +2265,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/dc.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/backdrop/dc.webp"
       },
       {
         "id": "collections.studios.dreamworks",
@@ -2289,9 +2289,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🏰",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/focused/dreamworks.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/title/dreamworks.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/cover/dreamworks.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/focused/dreamworks.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/title/dreamworks.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/cover/dreamworks.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2305,7 +2305,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/dreamworks.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/backdrop/dreamworks.webp"
       },
       {
         "id": "collections.studios.ghibli",
@@ -2329,9 +2329,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🏰",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/focused/ghibli.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/title/ghibli.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/cover/ghibli.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/focused/ghibli.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/title/ghibli.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/cover/ghibli.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2345,7 +2345,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/ghibli.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/backdrop/ghibli.webp"
       },
       {
         "id": "collections.studios.marvel",
@@ -2369,9 +2369,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🏰",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/focused/marvel.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/title/marvel.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/cover/marvel.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/focused/marvel.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/title/marvel.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/cover/marvel.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2385,7 +2385,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/marvel.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/backdrop/marvel.webp"
       },
       {
         "id": "collections.studios.nickelodeon",
@@ -2409,9 +2409,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🏰",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/focused/nickelodeon.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/title/nickelodeon.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/cover/nickelodeon.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/focused/nickelodeon.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/title/nickelodeon.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/cover/nickelodeon.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2425,7 +2425,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/nickelodeon.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/backdrop/nickelodeon.webp"
       },
       {
         "id": "collections.studios.pixar",
@@ -2449,9 +2449,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🏰",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/focused/pixar.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/title/pixar.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/cover/pixar.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/focused/pixar.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/title/pixar.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/cover/pixar.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2465,7 +2465,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/pixar.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/backdrop/pixar.webp"
       },
       {
         "id": "collections.studios.lucasfilm",
@@ -2489,9 +2489,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🏰",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/focused/lucasfilm.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/title/lucasfilm.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/cover/lucasfilm.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/focused/lucasfilm.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/title/lucasfilm.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/cover/lucasfilm.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2505,7 +2505,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/lucasfilm.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/studios/backdrop/lucasfilm.webp"
       }
     ],
     "pinToTop": true,
@@ -2539,9 +2539,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎥",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/focused/2020s.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/title/2020s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/cover/2020s.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/focused/2020s.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/title/2020s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/cover/2020s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2555,7 +2555,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/backdrop/2020s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/backdrop/2020s.webp"
       },
       {
         "id": "collections.decades.2010s",
@@ -2579,9 +2579,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎥",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/focused/2010s.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/title/2010s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/cover/2010s.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/focused/2010s.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/title/2010s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/cover/2010s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2595,7 +2595,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/backdrop/2010s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/backdrop/2010s.webp"
       },
       {
         "id": "collections.decades.2000s",
@@ -2619,9 +2619,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎥",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/focused/2000s.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/title/2000s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/cover/2000s.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/focused/2000s.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/title/2000s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/cover/2000s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2635,7 +2635,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/backdrop/2000s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/backdrop/2000s.webp"
       },
       {
         "id": "collections.decades.1990s",
@@ -2659,9 +2659,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎥",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/focused/1990s.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/title/1990s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/cover/1990s.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/focused/1990s.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/title/1990s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/cover/1990s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2675,7 +2675,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/backdrop/1990s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/backdrop/1990s.webp"
       },
       {
         "id": "collections.decades.1980s",
@@ -2699,9 +2699,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎥",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/focused/1980s.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/title/1980s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/cover/1980s.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/focused/1980s.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/title/1980s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/cover/1980s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2715,7 +2715,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/backdrop/1980s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/backdrop/1980s.webp"
       },
       {
         "id": "collections.decades.1970s",
@@ -2739,9 +2739,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎥",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/focused/1970s.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/title/1970s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/cover/1970s.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/focused/1970s.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/title/1970s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/cover/1970s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2755,7 +2755,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/backdrop/1970s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/backdrop/1970s.webp"
       },
       {
         "id": "collections.decades.1960s",
@@ -2779,9 +2779,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎥",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/focused/1960s.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/title/1960s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/cover/1960s.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/focused/1960s.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/title/1960s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/cover/1960s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2795,7 +2795,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/backdrop/1960s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/backdrop/1960s.webp"
       },
       {
         "id": "collections.decades.1950s",
@@ -2819,9 +2819,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎥",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/focused/1950s.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/title/1950s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/cover/1950s.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/focused/1950s.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/title/1950s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/cover/1950s.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2835,7 +2835,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/decades/backdrop/1950s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/decades/backdrop/1950s.webp"
       }
     ],
     "pinToTop": true,
@@ -2862,9 +2862,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🕒",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/focused/short.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/title/short.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/cover/short.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/focused/short.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/title/short.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/cover/short.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2873,7 +2873,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/backdrop/short.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/backdrop/short.webp"
       },
       {
         "id": "collections.runtime.standard",
@@ -2890,9 +2890,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🕒",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/focused/standard.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/title/standard.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/cover/standard.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/focused/standard.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/title/standard.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/cover/standard.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2901,7 +2901,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/backdrop/standard.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/backdrop/standard.webp"
       },
       {
         "id": "collections.runtime.long",
@@ -2918,9 +2918,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🕒",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/focused/long.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/title/long.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/cover/long.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/focused/long.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/title/long.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/cover/long.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2929,7 +2929,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/backdrop/long.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/backdrop/long.webp"
       },
       {
         "id": "collections.runtime.epic",
@@ -2946,9 +2946,9 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🕒",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/focused/epic.webp",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/title/epic.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/cover/epic.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/focused/epic.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/title/epic.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/cover/epic.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -2957,7 +2957,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/runtime/backdrop/epic.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/ggyummi/better-prism/collections/runtime/backdrop/epic.webp"
       }
     ],
     "pinToTop": true,
