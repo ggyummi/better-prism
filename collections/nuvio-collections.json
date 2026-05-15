@@ -1790,3 +1790,71 @@
     ]
   }
 ]
+{
+    "id": "collections.watchlist",
+    "title": "Watchlist",
+    "folders": [
+      {
+        "id": "collections.watchlist.simkl",
+        "title": "Watchlist",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "all",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "simkl.watchlist.movies.plantowatch"
+          },
+          {
+            "type": "series",
+            "genre": "all",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "simkl.watchlist.shows.plantowatch"
+          },
+          {
+            "type": "anime",
+            "genre": "all",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "simkl.watchlist.anime.plantowatch"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "📼",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "simkl.watchlist.movies.plantowatch"
+          },
+          {
+            "type": "series",
+            "genre": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "simkl.watchlist.shows.plantowatch"
+          },
+          {
+            "type": "anime",
+            "genre": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "simkl.watchlist.anime.plantowatch"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "backdropImageUrl": "",
+    "focusGlowEnabled": true
+  }
+]
