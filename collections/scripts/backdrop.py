@@ -74,7 +74,7 @@ from pathlib import Path
 from urllib.parse import parse_qsl
 
 import requests
-from PIL import Image, ImageDraw, ImageFilter
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 DEFAULT_OUTPUT_DIR = SCRIPT_DIR / "output"
@@ -576,6 +576,61 @@ def apply_gradient(canvas, accent):
     return Image.alpha_composite(result, accent_grad)
 
 
+def load_font(font_path, size):
+    if font_path:
+        return ImageFont.truetype(font_path, size=size)
+    for candidate in (
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+        "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+        "C:/Windows/Fonts/arialbd.ttf",
+    ):
+        if Path(candidate).exists():
+            return ImageFont.truetype(candidate, size=size)
+    return ImageFont.load_default()
+
+
+def draw_catalog_title(canvas, label, font_path=None):
+    if not label:
+        return canvas
+    width, height = canvas.size
+    draw = ImageDraw.Draw(canvas)
+    max_width = int(width * 0.42)
+    font_size = max(42, int(height * 0.075))
+    min_size = max(22, int(height * 0.032))
+    wrapped = [label]
+    while font_size >= min_size:
+        font = load_font(font_path, font_size)
+        words = label.split()
+        lines = []
+        current = []
+        for word in words:
+            probe = " ".join(current + [word])
+            probe_box = draw.textbbox((0, 0), probe, font=font)
+            if probe_box[2] - probe_box[0] <= max_width or not current:
+                current.append(word)
+            else:
+                lines.append(" ".join(current))
+                current = [word]
+        if current:
+            lines.append(" ".join(current))
+        line_heights = [draw.textbbox((0, 0), line, font=font)[3] for line in lines]
+        total_height = int(sum(line_heights) + (len(lines) - 1) * (font_size * 0.18))
+        if total_height <= int(height * 0.36):
+            wrapped = lines
+            break
+        font_size -= 4
+
+    x = int(width * 0.055)
+    y = int(height * 0.11)
+    line_gap = int(font_size * 0.18)
+    for line in wrapped:
+        draw.text((x + 2, y + 2), line, font=font, fill=(0, 0, 0, 168))
+        draw.text((x, y), line, font=font, fill=(245, 245, 248, 236))
+        bbox = draw.textbbox((x, y), line, font=font)
+        y += (bbox[3] - bbox[1]) + line_gap
+    return canvas
+
+
 def resolve_quality_settings(profile="compressed", quality=None):
     settings = dict(QUALITY_PRESETS[profile])
     if quality is not None:
@@ -646,6 +701,7 @@ def backdrops(
     profile="compressed",
     quality=None,
     preferred_language="en",
+    title_font_path=None,
     logger=None,
 ):
     """Fetch titles for the supplied TMDB requests and render one or more backdrop images."""
@@ -725,6 +781,7 @@ def backdrops(
         log(f"Compositing {output_size} ({width}x{height})...")
         canvas = build_tilted_grid(tile_images, width, height, scale=scale, focus_x=fx, focus_y=fy)
         canvas = apply_gradient(canvas, accent)
+        canvas = draw_catalog_title(canvas, label=label, font_path=title_font_path)
         with contextlib.redirect_stdout(progress_output):
             save_output(canvas, destination, quality_settings=quality_settings)
         for line in progress_output.getvalue().splitlines():
@@ -757,6 +814,7 @@ def main():
     parser.add_argument("--api-key", required=False, help="TMDB API key (v3)")
     parser.add_argument("--fanart-key", required=False, default=None, help="Fanart.tv API key")
     parser.add_argument("--preferred-language", default="en", help="Preferred Fanart artwork language code. Default: en")
+    parser.add_argument("--title-font", default=None, help="Optional .ttf/.otf font path for the catalog title text overlay.")
     parser.add_argument("--label", required=True, help="Label for logs and fallback accent generation")
     parser.add_argument(
         "--tmdb-request",
@@ -802,6 +860,7 @@ def main():
             profile=args.profile,
             quality=args.quality,
             preferred_language=args.preferred_language,
+            title_font_path=args.title_font,
         )
     except Exception as exc:
         print(f"Error: {exc}")
